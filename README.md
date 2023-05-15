@@ -1,5 +1,14 @@
 # My-Fitness-App
 
-## DEMO VIDEO 
+## Software Requirements 
+1. [GithubAccount](https://github.com/)
+2. [VScodeIDE](https://code.visualstudio.com/)
+3. [HarperDB](https://www.harperdb.io/)
+4. [Streamlit](https://streamlit.io/)
 
-![Alt Text](C:\Users\HP\Desktop\fitness-app\fitness.gif)
+## Demo Video 
+
+![Alt Text](fitness.gif)
+
+Working on the email notifications part 
+
